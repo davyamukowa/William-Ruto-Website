@@ -1,15 +1,14 @@
-# Healthcare-Website
-- Informational Website related to Healthcare, Details and Services provided by different hospitals, Details about them and Inquiry form for foreigners who want to use the facility in India.
-
-## Table of contents
-- [About Healthcare](#about-healthcare)
+#   william Ruto campaign tool website UDA WEBSITE
+- This is a political website in kenya for william Ruto a dogital campaign tool to show the Good woork that he has done for kenyans
+<!-- ## Table of contents -->
+<!-- - [About Healthcare](#about-healthcare)
 - [Responsibility](#responsibility)
 - [Screenshots](#screenshots)
-- [Dependencies](#dependencies)
+- [Dependencies](#dependencies) -->
 
 
 #### About Healthcare
-- Informational Website related to Healthcare, Details and Services provided by different hospitals, Details about them and Inquiry form for foreigners who want to use the facility in India.
+-  This is a political website in kenya for william Ruto a dogital campaign tool to show the Good woork that he has done for kenyans
 
 ##### Responsibility
 - Template Design
@@ -25,12 +24,11 @@
 ###### Screenshots
 
 - **Home Page Image** 
-<img src="https://github.com/pras75299/Healthcare-Website/blob/master/images/home-healthcare.png?raw=true" width="50%" height="50%"/>
+<img src="https://github.com/davyamukowa/william-ruto-website/blob/main/images/l-4.png" width="50%" height="50%"/>
 
 
 ###### Dependencies
-- Basically it’s the website for  Information about all major hospital in Delhi/NCR, and anyone can read the information, and see what services provided by each hospital and By submitting an enquiry for availability in hospital.
-
+- Basically it’s the website for  Information about the Good work that william ruto has done and why he should be voted for
 
 - [Jquery](https://code.jquery.com/jquery-3.2.1.min.js) <br/>
 - [Bootstrap 3.3](https://getbootstrap.com/docs/3.3/) <br/>
